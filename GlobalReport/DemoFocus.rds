@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DemoFocus">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=172.18.2.11;Initial Catalog=DemoFocus</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>764671a7-9117-408d-8253-d906de4a4094</DataSourceID>
+</RptDataSource>
